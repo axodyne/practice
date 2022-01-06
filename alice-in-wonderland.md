@@ -1,11 +1,8 @@
-ALICE'S ADVENTURES IN WONDERLAND
+# ALICE'S ADVENTURES IN WONDERLAND
 
-Lewis Carroll
+## Lewis Carroll
 
-THE MILLENNIUM FULCRUM EDITION 3.0
-
-
-
+(https://www.gutenberg.org/)
 
 CHAPTER I. Down the Rabbit-Hole
 
