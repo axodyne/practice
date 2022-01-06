@@ -1,144 +1,42 @@
-The Project Gutenberg EBook of Dracula, by Bram Stoker
-
-Title: Dracula
-
-
-
-Author: Bram Stoker
-
-
-
-Release Date: May 9, 2008 [EBook #345]
-
-[Date last updated: January 3, 2009]
-
-
-
-Language: English
-
-
-
-Character set encoding: ASCII
-
-
-
-*** START OF THIS PROJECT GUTENBERG EBOOK DRACULA ***
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# The Project Gutenberg EBook of Dracula, by Bram Stoker
+## Title: Dracula
+## Author: Bram Stoker
+## Release Date: May 9, 2008 [EBook #345]
 
 DRACULA
-
-
-
 by
-
-
-
 Bram Stoker
-
-
-
-
-
 1897 edition
 
-
-
-
-
-
-
-
-
 TABLE OF CONTENTS
-
-
-
-
-
 CHAPTER
-
-
-
-  1  Jonathan Harker's Journal
-
-  2  Jonathan Harker's Journal
-
-  3  Jonathan Harker's Journal
-
-  4  Jonathan Harker's Journal
-
-  5  Letter From Miss Mina Murray To Miss Lucy Westenra
-
-  6  Mina Murray's Journal
-
-  7  Cutting From "The Dailygraph", 8 August
-
-  8  Mina Murray's Journal
-
-  9  Letter, Mina Harker To Lucy Westenra
-
- 10  Letter, Dr. Seward To Hon. Arthur Holmwood
-
- 11  Lucy Westenra's Diary
-
- 12  Dr. Seward's Diary
-
- 13  Dr. Seward's Diary
-
- 14  Mina Harker's Journal
-
- 15  Dr. Seward's Diary
-
- 16  Dr. Seward's Diary
-
- 17  Dr. Seward's Diary
-
- 18  Dr. Seward's Diary
-
- 19  Jonathan Harker's Journal
-
- 20  Jonathan Harker's Journal
-
- 21  Dr. Seward's Diary
-
- 22  Jonathan Harker's Journal
-
- 23  Dr. Seward's Diary
-
- 24  Dr. Seward's Phonograph Diary
-
- 25  Dr. Seward's Diary
-
- 26  Dr. Seward's Diary
-
- 27  Mina Harker's Journal
+1  Jonathan Harker's Journal
+2  Jonathan Harker's Journal
+3  Jonathan Harker's Journal
+4  Jonathan Harker's Journal
+5  Letter From Miss Mina Murray To Miss Lucy Westenra
+6  Mina Murray's Journal
+7  Cutting From "The Dailygraph", 8 August
+8  Mina Murray's Journal
+9  Letter, Mina Harker To Lucy Westenra
+10  Letter, Dr. Seward To Hon. Arthur Holmwood
+11  Lucy Westenra's Diary
+12  Dr. Seward's Diary
+13  Dr. Seward's Diary
+14  Mina Harker's Journal
+15  Dr. Seward's Diary
+16  Dr. Seward's Diary
+17  Dr. Seward's Diary
+18  Dr. Seward's Diary
+19  Jonathan Harker's Journal
+20  Jonathan Harker's Journal
+21  Dr. Seward's Diary
+22  Jonathan Harker's Journal
+23  Dr. Seward's Diary
+24  Dr. Seward's Phonograph Diary
+25  Dr. Seward's Diary
+26  Dr. Seward's Diary
+27  Mina Harker's Journal
 
 
 
